@@ -1,13 +1,13 @@
 {
-  "homepage": "https://app.levanquy.com/",
-  "name": "study-app",
+  "homepage": "https://mobile.levanquy.com/",
+  "name": "study-mobile",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "yarn build && gh-pages -d dist -b pages-study-app"
+    "deploy": "yarn build && gh-pages -d dist -b pages-study-mobile"
   },
   "dependencies": {
     "core-js": "^3.8.3",

@@ -37,7 +37,7 @@ export default {
     msg: String
   },
   mounted() {
-    document.title = 'Lê Văn Quý - App Developer'
+    document.title = 'Lê Văn Quý - Mobile Developer'
   }
 }
 </script>
